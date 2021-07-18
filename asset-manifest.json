@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Landing-Page-GAMA/static/css/main.4936601c.chunk.css",
+    "main.js": "/Landing-Page-GAMA/static/js/main.1c61b52a.chunk.js",
+    "main.js.map": "/Landing-Page-GAMA/static/js/main.1c61b52a.chunk.js.map",
+    "runtime-main.js": "/Landing-Page-GAMA/static/js/runtime-main.fdbd26e5.js",
+    "runtime-main.js.map": "/Landing-Page-GAMA/static/js/runtime-main.fdbd26e5.js.map",
+    "static/css/2.081f420c.chunk.css": "/Landing-Page-GAMA/static/css/2.081f420c.chunk.css",
+    "static/js/2.a7f56bc7.chunk.js": "/Landing-Page-GAMA/static/js/2.a7f56bc7.chunk.js",
+    "static/js/2.a7f56bc7.chunk.js.map": "/Landing-Page-GAMA/static/js/2.a7f56bc7.chunk.js.map",
+    "static/js/3.3671a7c8.chunk.js": "/Landing-Page-GAMA/static/js/3.3671a7c8.chunk.js",
+    "static/js/3.3671a7c8.chunk.js.map": "/Landing-Page-GAMA/static/js/3.3671a7c8.chunk.js.map",
+    "index.html": "/Landing-Page-GAMA/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/Landing-Page-GAMA/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.4936601c.chunk.css.map": "/Landing-Page-GAMA/static/css/main.4936601c.chunk.css.map",
+    "static/js/2.a7f56bc7.chunk.js.LICENSE.txt": "/Landing-Page-GAMA/static/js/2.a7f56bc7.chunk.js.LICENSE.txt",
+    "static/media/CommToSafety.0f20830a.jpg": "/Landing-Page-GAMA/static/media/CommToSafety.0f20830a.jpg",
+    "static/media/background.3d967d9f.jpeg": "/Landing-Page-GAMA/static/media/background.3d967d9f.jpeg",
+    "static/media/cities-in-motion.27486856.jpg": "/Landing-Page-GAMA/static/media/cities-in-motion.27486856.jpg",
+    "static/media/uberDiscount.199e4423.png": "/Landing-Page-GAMA/static/media/uberDiscount.199e4423.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdbd26e5.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.a7f56bc7.chunk.js",
+    "static/css/main.4936601c.chunk.css",
+    "static/js/main.1c61b52a.chunk.js"
+  ]
+}
